@@ -50,4 +50,3 @@ while j<=chances:
         print(ls)
 
     j=j-1
-    
